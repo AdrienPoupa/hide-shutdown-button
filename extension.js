@@ -1,7 +1,7 @@
 
 const St = imports.gi.St;
 const Main = imports.ui.main;
-const Tweener = imports.ui.tweener;
+const Tweener = imports.tweener.tweener;
 const Util = imports.misc.util;
 
 let text, button, orgIndicator;
